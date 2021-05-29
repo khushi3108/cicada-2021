@@ -1,7 +1,9 @@
-# cicada-2021
-# Miraki- A One Stop Destination For All Expected Mothers-To-Be with all their Queries Answered and Assistance Provided at just One click
+# Cicada-2021
+# Miraki
+A One Stop Destination For All Expected Mothers-To-Be with all their Queries Answered and Assistance Provided at just One click
 
-# Tech Stacks: HTML, CSS, BOOTSTRAP, JS, JQUERY, NODEJS, EXPRESS, MONGODB, MONGOOSE
+# Tech Stacks:
+HTML, CSS, BOOTSTRAP, JS, JQUERY, NODEJS, EXPRESS, MONGODB, MONGOOSE
 # Problem Statement
 As the world shuts down in the wake of the COVID-19 pandemic, the difficulties faced by pregnant women have increased manifolds. The main challenges are posed during the first trimester and the third trimester when the patient must undergo diagnostic tests, scans and investigations every week or so in order to confirm the pregnancy and check for abnormalities, bleeding, chances of abortions or miscarriages. During these times, expecting mothers constantly fear contraction of COVID-19 through hospital visits, hence the need for a platform that allows them to indicate a possible pregnancy, continuously monitor their symptoms and send warnings in case of any abnormalities, and to review their diet and exercise plans.
 # Idea and Solution
